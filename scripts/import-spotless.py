@@ -231,6 +231,8 @@ with futures.ThreadPoolExecutor(4) as pool: errors=[e for e in pool.map(download
 # A dead source image must not create a broken local request. Keep its original link.
 failed={assets[e['url']]:e['url'] for e in errors}
 def unavailable_media(value):
+    if isinstance(value,str) and value in failed:
+        return ''
     if isinstance(value,str) and '<' in value:
         markup=BeautifulSoup(value,'html.parser')
         for image in markup.select('img[src]'):

@@ -336,5 +336,8 @@
   "articles": 10,
   "browserErrors": [],
   "externalRequests": [],
-  "interactions": "pass"
+  "interactions": "pass",
+  "videoEmbeds": [
+    "https://www.youtube.com/embed/bMFqZQAJU1Q"
+  ]
 }
