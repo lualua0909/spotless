@@ -1,161 +1,54 @@
-<div align="center">
+# Spotless
 
-# AI Website Cloner Template
+Bản dựng local của [spotless.vn](https://spotless.vn/), phát triển từ [ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template). Dự án đã đổi tên thành `spotless` và gỡ remote `origin`.
 
-### Clone any website with one command
+Yêu cầu Node.js 24+ và npm. Dependencies đã được cài.
 
-Give your AI coding agent a URL and watch it recreate the website as a clean Next.js app.
-
-**Best results with [Claude Code](https://docs.anthropic.com/en/docs/claude-code) + Opus 5.5. Also supports Codex, Cursor, and OpenCode.**
-
-[![Use this template](https://img.shields.io/badge/Use_this_template-Create_your_copy-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JCodesMore/ai-website-cloner-template/generate) [![Discord](https://img.shields.io/badge/Join_the_community-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/hrTSX5yTpB)
-
-[Quick Start](#quick-start) · [Watch Demo](#demo) · [Supported Platforms](#supported-platforms)
-
-<a href="https://github.com/JCodesMore/ai-website-cloner-template/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue" alt="MIT License" /></a> <a href="https://github.com/JCodesMore/ai-website-cloner-template"><img src="https://img.shields.io/github/stars/JCodesMore/ai-website-cloner-template?style=flat" alt="Stars" /></a> <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/JCodesMore/ai-website-cloner-template/badges/token-badge.json" alt="tokens" />
-
-  <a href="https://trendshift.io/repositories/24302?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-24302" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/repositories/24302" alt="JCodesMore%2Fai-website-cloner-template | Trendshift" width="250" height="55" /></a> <a href="https://www.star-history.com/jcodesmore/ai-website-cloner-template/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/badge?repo=JCodesMore/ai-website-cloner-template&amp;theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/badge?repo=JCodesMore/ai-website-cloner-template" /><img alt="Star History Global Rank" src="https://api.star-history.com/badge?repo=JCodesMore/ai-website-cloner-template" width="216" height="55" /></picture></a>
-
-<br />
-<sub><strong>SPONSORED BY</strong></sub>
-<br /><br />
-<a href="https://www.swiftproxy.net/?ref=JCodesMore"><img src="docs/assets/sponsors/swiftproxy-banner.webp" alt="Swiftproxy residential proxies for inspecting websites from 195+ locations" width="680" /></a>
-<br />
-<sub>Inspect and compare websites from any region with rotating or static residential IPs in 195+ locations, over HTTP(S) and SOCKS5. Free testing, plus 10% off with code <code>PROXY90</code>. <a href="https://www.swiftproxy.net/?ref=JCodesMore">Try&nbsp;Swiftproxy&nbsp;→</a></sub>
-
-</div>
-
----
-
-## Demo
-
-[![Watch the demo](docs/design-references/comparison.png)](https://youtu.be/O669pVZ_qr0)
-
-> Click the image above to watch the full demo on YouTube.
-
-## Quick Start
-
-### 1. Set up your project
-
-**Recommended: ask your agent.** Paste this into Codex, Claude Code, or your coding agent:
-
-```text
-Set up https://github.com/JCodesMore/ai-website-cloner-template
-as a standalone project in a new folder on my computer.
-Ask me where to put it. Clone the repository, remove its origin remote,
-install dependencies, and run npm run check. Leave it ready for me
-to clone a website.
+```sh
+npm run dev -- --hostname 127.0.0.1
+# http://127.0.0.1:3000
 ```
 
-**Or create your own GitHub repository:**
-
-[![Use this template](https://img.shields.io/badge/Use_this_template-Create_your_copy-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JCodesMore/ai-website-cloner-template/generate)
-
-Give it a name and click **Create repository**. Then give your agent the new repository's link and ask it to clone it onto your computer, install dependencies, and run `npm run check`.
-
-### 2. Clone a website
-
-Open the project in your agent with browser access enabled. In Claude Code or Cursor, run:
-
-```text
-/clone-website https://example.com
+```sh
+npm run check          # ESLint + TypeScript + production build
+npm run build
+npm start             # chạy production build
 ```
 
-Replace the URL with the website you want to recreate. Once it's built, ask your agent for any changes you want.
+Có 55 route trong bản đồ nguồn, bao gồm trang chủ, 8 sản phẩm, 5 danh mục, 5 chuyên mục blog, 21 trang thông tin/hỗ trợ, các alias và trang tiện ích. Blog chỉ giữ đúng **10 bài tiêu biểu**: 2 hướng dẫn, 2 sức khỏe, 4 chăm sóc nam giới, 1 tin tức, 1 tuyển dụng. Nội dung và asset được lưu trong repository; không cần Shopify để render.
 
-## Supported Platforms
+Menu desktop/mobile, bộ lọc sắp xếp, tìm kiếm, gallery/phóng to ảnh, so sánh phiên bản, FAQ, video và giỏ hàng hoạt động local. Giỏ hàng lưu trong trình duyệt, hỗ trợ thêm/xóa/đổi số lượng và tính tổng. Các form tài khoản/bảo hành/tra cứu cùng thanh toán là bản xem trước, chưa kết nối backend hay gửi thông tin đến hệ thống thật.
 
-| Agent                                                         | Status                     |
-| ------------------------------------------------------------- | -------------------------- |
-| [Claude Code](https://docs.anthropic.com/en/docs/claude-code) | **Recommended** — Opus 5.5 |
-| [Codex CLI](https://github.com/openai/codex)                  | Supported                  |
-| [OpenCode](https://opencode.ai/)                              | Supported                  |
-| [Cursor](https://cursor.com/)                                 | Supported                  |
+| Vị trí | Nội dung |
+| --- | --- |
+| `src/app/` | Route Next.js, metadata và layout |
+| `src/components/sites/spotless/` | Component React, CSS, font và giỏ hàng |
+| `src/data/spotless.json` | Dữ liệu trang, sản phẩm, 10 bài viết dưới dạng JSON local |
+| `public/sites/spotless/` | 166 asset đã tải, gồm ảnh, font và video |
+| [docs/research/spotless/README.md](docs/research/spotless/README.md) | Bản đồ route, kiểm tra, ảnh so sánh và khác biệt còn lại |
 
-## Prerequisites
+Để kiểm tra bằng Chrome đang cài trên máy, chạy dev server ở terminal thứ nhất, sau đó:
 
-- [Node.js](https://nodejs.org/) 24+
-- An AI coding agent (see [Supported Platforms](#supported-platforms))
-
-## Tech Stack
-
-- **Next.js 16** — App Router, React 19, TypeScript strict
-- **shadcn/ui** — Base UI primitives + Tailwind CSS v4
-- **Tailwind CSS v4** — oklch design tokens
-- **Lucide React** — default icons (replaced by extracted SVGs during cloning)
-
-## How It Works
-
-The `/clone-website` skill follows four steps:
-
-1. **Map** — map source URLs to local routes and preserve existing work.
-2. **Observe** — inspect desktop/mobile pages, extract real assets and fonts, and exercise alternate states.
-3. **Build** — implement editable components and working interactions; delegate independent sections when useful.
-4. **Compare** — review source and local pages at matched sizes/states, repair visible differences, and run the production check.
-
-Framer pages and animated sites have focused inspection guidance for responsive variants, media, sticky scenes, and scroll/time-driven motion. Direct HTTP or asset tools handle extraction where practical; browser comparisons establish appearance and behavior. Deliverables include route mappings, run instructions, comparison screenshots, and any remaining gaps.
-
-## Use Cases
-
-- **Platform migration** — rebuild a site you own from WordPress/Webflow/Squarespace into a modern Next.js codebase
-- **Lost source code** — your site is live but the repo is gone, the developer left, or the stack is legacy. Get the code back in a modern format
-- **Learning** — deconstruct how production sites achieve specific layouts, animations, and responsive behavior by working with real code
-
-## Not Intended For
-
-- **Phishing or impersonation** — this project must not be used for deceptive purposes, impersonation, or any activity that breaks the law.
-- **Passing off someone's design as your own** — logos, brand assets, and original copy belong to their owners.
-- **Violating terms of service** — some sites explicitly prohibit scraping or reproduction. Check first.
-
-## Project Structure
-
-```
-src/
-  app/              # Next.js routes
-  components/       # React components
-    ui/             # shadcn/ui primitives
-    sites/<site>/   # Source-specific components and extracted SVGs
-  lib/utils.ts      # cn() utility
-  types/            # TypeScript interfaces
-  hooks/            # Custom React hooks
-public/
-  sites/<site>/     # Source-specific images, fonts, videos, and other assets
-docs/
-  research/<site>/  # Page brief, asset map, and inspection evidence
-  design-references/ # Screenshots
-.agents/skills/
-  clone-website/    # Canonical skill and inspection reference
-.claude/commands/
-  clone-website.md  # Thin Claude Code bridge
-AGENTS.md           # Agent instructions (single source of truth)
-CLAUDE.md           # Claude Code config (imports AGENTS.md)
+```sh
+npm run check:browser
 ```
 
-## Commands
+Playwright đã được cài dưới dạng dev dependency. Lệnh kiểm tra 55 route ở desktop/mobile, ảnh, link nội bộ, tìm kiếm/sắp xếp, gallery, FAQ, giỏ hàng và video cuộn hai chiều; chặn request ra ngoài để xác minh asset local.
 
-```bash
-npm run dev    # Start dev server
-npm run build  # Production build
-npm run lint   # ESLint check
-npm run typecheck # TypeScript check
-npm run check  # Run lint + typecheck + build
+Giỏ hàng và tùy chọn cookie dùng JSON trong `localStorage` của trình duyệt. Để chuyển ảnh mới sang WebP chất lượng 70, chạy `node scripts/compress-images.cjs`. Tùy chọn `--include-webp` mã hóa lại cả ảnh WebP hiện có.
+
+Dữ liệu nguồn đã được lưu. Nếu cần tạo lại snapshot từ cache và tải asset còn thiếu:
+
+```sh
+python3 -m venv .venv
+.venv/bin/pip install beautifulsoup4
+.venv/bin/python scripts/import-spotless.py
 ```
 
-### If using docker
+Hướng dẫn clone cho agent vẫn nằm ở [.agents/skills/clone-website/SKILL.md](.agents/skills/clone-website/SKILL.md); bridge Claude ở [.claude/commands/clone-website.md](.claude/commands/clone-website.md).
 
-```bash
-docker compose up app --build # build and run the app
-docker compose up dev --build # run the app in dev mode on port 3001
-```
+Một ảnh minh họa trong chính sách vận chuyển dùng CDN cũ không truy cập được; bản local giữ liên kết ảnh gốc thay vì tạo ảnh lỗi. Chi tiết nằm trong `docs/research/spotless/import-errors.json`. Các bố cục chi tiết sản phẩm được dựng lại bằng React; widget deal/combo, loyalty, OTP, thanh toán và đánh giá của nhà cung cấp chưa được nối vào dịch vụ thật. Đây là bản tái dựng, chưa xác nhận khớp tuyệt đối từng pixel.
 
-## Agent Support
+Next.js và ESLint config đã cập nhật lên 16.4.6 theo bản vá. `npm audit --omit=dev` không còn cảnh báo; 4 cảnh báo mức moderate còn nằm trong chuỗi dependency của CLI shadcn dùng khi phát triển. Không áp dụng downgrade phá vỡ tương thích mà `audit --force` đề xuất.
 
-The project keeps one portable Agent Skill at `.agents/skills/clone-website/`. Codex, Cursor, and OpenCode read it directly. Claude Code uses the small command bridge at `.claude/commands/clone-website.md` so `/clone-website` and its arguments continue to work without exposing a duplicate skill to the other agents.
-
-## Star History
-
-![Star History Chart](docs/assets/star-history.png)
-
-## License
-
-MIT
+Giữ nguyên giấy phép MIT và thông tin tác giả template trong [LICENSE](LICENSE). Nội dung, nhận diện và hình ảnh nguồn thuộc về chủ sở hữu tương ứng.

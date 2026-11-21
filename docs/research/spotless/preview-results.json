@@ -1,0 +1,89 @@
+{
+  "results": [
+    {
+      "path": "/",
+      "status": 200,
+      "h1": "Nâng cấp toàn diện cho vùng kín",
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "path": "/",
+      "mobile": true,
+      "overflow": false
+    },
+    {
+      "path": "/products/trimday-3-0-max",
+      "status": 200,
+      "h1": "TRIMDAY® 3.0 MAX",
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "path": "/products/trimday-3-0-max",
+      "mobile": true,
+      "overflow": false
+    },
+    {
+      "path": "/collections/all",
+      "status": 200,
+      "h1": "Sản phẩm",
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "path": "/collections/all",
+      "mobile": true,
+      "overflow": false
+    },
+    {
+      "path": "/pages/ho-tro",
+      "status": 200,
+      "h1": "Bạn cần giúp gì?",
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "path": "/pages/ho-tro",
+      "mobile": true,
+      "overflow": false
+    },
+    {
+      "path": "/pages/ve-spotless",
+      "status": 200,
+      "h1": "Chúng tôi không làm Spotless® để bán máy cạo.",
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "path": "/pages/ve-spotless",
+      "mobile": true,
+      "overflow": false
+    },
+    {
+      "path": "/blogs/cham-soc-nam-gioi",
+      "status": 200,
+      "h1": "Chăm sóc nam giới",
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "path": "/blogs/cham-soc-nam-gioi",
+      "mobile": true,
+      "overflow": false
+    },
+    {
+      "path": "/blogs/cham-soc-nam-gioi/cao-long-nach-co-bi-tham-khong",
+      "status": 200,
+      "h1": "Cạo lông nách có bị thâm không? Cách tránh thâm sần",
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "path": "/blogs/cham-soc-nam-gioi/cao-long-nach-co-bi-tham-khong",
+      "mobile": true,
+      "overflow": false
+    }
+  ],
+  "errors": []
+}

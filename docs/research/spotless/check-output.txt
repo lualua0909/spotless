@@ -1,0 +1,41 @@
+
+> spotless@0.6.1 check
+> npm run lint && npm run typecheck && npm run build
+
+
+> spotless@0.6.1 lint
+> eslint
+
+
+> spotless@0.6.1 typecheck
+> tsc --noEmit
+
+
+> spotless@0.6.1 build
+> next build
+
+▲ Next.js 16.4.6 (Turbopack)
+✓ Running next.config.ts took 60ms
+
+  Creating an optimized production build ...
+✓ Compiled successfully in 2.6s
+  Running TypeScript ...
+  Finished TypeScript in 3.2s ...
+  Collecting page data using 6 workers ...
+  Generating static pages using 6 workers (0/62) ...
+  Generating static pages using 6 workers (15/62) 
+  Generating static pages using 6 workers (30/62) 
+  Generating static pages using 6 workers (46/62) 
+✓ Generating static pages using 6 workers (62/62) in 1145ms
+  Finalizing page optimization ...
+
+Route (app)
+┌ ○ /
+├ ○ /_not-found
+├ ƒ /[...slug]
+└ ○ /icon.png
+
+
+○  (Static)   prerendered as static content
+ƒ  (Dynamic)  server-rendered on demand
+

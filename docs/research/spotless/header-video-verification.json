@@ -1,0 +1,36 @@
+{
+  "sizes": [
+    {
+      "width": 390,
+      "overflow": false,
+      "mobileMenu": true,
+      "logoWidth": 81
+    },
+    {
+      "width": 700,
+      "overflow": false,
+      "mobileMenu": true,
+      "logoWidth": 81
+    },
+    {
+      "width": 820,
+      "overflow": false,
+      "mobileMenu": true,
+      "logoWidth": 81
+    },
+    {
+      "width": 1024,
+      "overflow": false,
+      "mobileMenu": false,
+      "logoWidth": 81
+    },
+    {
+      "width": 1440,
+      "overflow": false,
+      "mobileMenu": false,
+      "logoWidth": 81
+    }
+  ],
+  "videoModal": "pass",
+  "favicon": "pass"
+}

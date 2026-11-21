@@ -1,0 +1,673 @@
+{
+  "loaded": [
+    {
+      "url": "https://fonts.gstatic.com/s/googlesansflex/v26/t5svIQcYNIWbFgDgAAzZ34auoVyXkJCOvoOmPWNbN5hF8Ju1x5Vwd0N3l9sIcwowNJwGpVd4AZzz0v6lJ4qFXNZhGjLvDSkV4W6JGn9Q3I8ipFY.woff2",
+      "status": 200,
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/oswald/v57/TK3IWkUHHAIjg75cFRf3bXL8LICs1_Fv40pKlN4NNSeSASz7FmlZHYjMdZwlou4.woff2",
+      "status": 200,
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/oswald/v57/TK3IWkUHHAIjg75cFRf3bXL8LICs1_Fv40pKlN4NNSeSASz7FmlWHYjMdZwl.woff2",
+      "status": 200,
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/oswald/v57/TK3IWkUHHAIjg75cFRf3bXL8LICs1_Fv40pKlN4NNSeSASz7FmlYHYjMdZwlou4.woff2",
+      "status": 200,
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/googlesansflex/v26/t5svIQcYNIWbFgDgAAzZ34auoVyXkJCOvoOmPWNbN5hF8Ju1x5Vwd0N3l9sIcwowNJwGpVd4AZzz0v6lJ4qFXNZhGjLvDSkV4W7oGn9Q3I8ipFY.woff2",
+      "status": 200,
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/googlesansflex/v26/t5svIQcYNIWbFgDgAAzZ34auoVyXkJCOvoOmPWNbN5hF8Ju1x5Vwd0N3l9sIcwowNJwGpVd4AZzz0v6lJ4qFXNZhGjLvDSkV4W6IGn9Q3I8ipFY.woff2",
+      "status": 200,
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/googlesansflex/v26/t5svIQcYNIWbFgDgAAzZ34auoVyXkJCOvoOmPWNbN5hF8Ju1x5Vwd0N3l9sIcwowNJwGpVd4AZzz0v6lJ4qFXNZhGjLvDSkV4W6GGn9Q3I8i.woff2",
+      "status": 200,
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/oswald/v57/TK3iWkUHHAIjg752Fj8Gl-1PK62t.woff2",
+      "status": 200,
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/oswald/v57/TK3iWkUHHAIjg752Fz8Gl-1PK62t.woff2",
+      "status": 200,
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/oswald/v57/TK3iWkUHHAIjg752GT8Gl-1PKw.woff2",
+      "status": 200,
+      "contentType": "font/woff2"
+    }
+  ],
+  "summary": {
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/157.0.0.0 Safari/537.36",
+    "fonts": [
+      {
+        "family": "Google Sans Flex",
+        "weight": "400",
+        "status": "unloaded",
+        "style": "normal"
+      },
+      {
+        "family": "Google Sans Flex",
+        "weight": "400",
+        "status": "unloaded",
+        "style": "normal"
+      },
+      {
+        "family": "Google Sans Flex",
+        "weight": "400",
+        "status": "unloaded",
+        "style": "normal"
+      },
+      {
+        "family": "Google Sans Flex",
+        "weight": "400",
+        "status": "unloaded",
+        "style": "normal"
+      },
+      {
+        "family": "Google Sans Flex",
+        "weight": "400",
+        "status": "loaded",
+        "style": "normal"
+      },
+      {
+        "family": "Google Sans Flex",
+        "weight": "400",
+        "status": "unloaded",
+        "style": "normal"
+      },
+      {
+        "family": "Google Sans Flex",
+        "weight": "400",
+        "status": "unloaded",
+        "style": "normal"
+      },
+      {
+        "family": "Google Sans Flex",
+        "weight": "400",
+        "status": "loaded",
+        "style": "normal"
+      },
+      {
+        "family": "Google Sans Flex",
+        "weight": "400",
+        "status": "loaded",
+        "style": "normal"
+      },
+      {
+        "family": "Google Sans Flex",
+        "weight": "400",
+        "status": "loaded",
+        "style": "normal"
+      },
+      {
+        "family": "Google Sans Flex",
+        "weight": "500",
+        "status": "unloaded",
+        "style": "normal"
+      },
+      {
+        "family": "Google Sans Flex",
+        "weight": "500",
+        "status": "unloaded",
+        "style": "normal"
+      },
+      {
+        "family": "Google Sans Flex",
+        "weight": "500",
+        "status": "unloaded",
+        "style": "normal"
+      },
+      {
+        "family": "Google Sans Flex",
+        "weight": "500",
+        "status": "unloaded",
+        "style": "normal"
+      },
+      {
+        "family": "Google Sans Flex",
+        "weight": "500",
+        "status": "loaded",
+        "style": "normal"
+      },
+      {
+        "family": "Google Sans Flex",
+        "weight": "500",
+        "status": "unloaded",
+        "style": "normal"
+      },
+      {
+        "family": "Google Sans Flex",
+        "weight": "500",
+        "status": "unloaded",
+        "style": "normal"
+      },
+      {
+        "family": "Google Sans Flex",
+        "weight": "500",
+        "status": "loaded",
+        "style": "normal"
+      },
+      {
+        "family": "Google Sans Flex",
+        "weight": "500",
+        "status": "loaded",
+        "style": "normal"
+      },
+      {
+        "family": "Google Sans Flex",
+        "weight": "500",
+        "status": "loaded",
+        "style": "normal"
+      },
+      {
+        "family": "Google Sans Flex",
+        "weight": "600",
+        "status": "unloaded",
+        "style": "normal"
+      },
+      {
+        "family": "Google Sans Flex",
+        "weight": "600",
+        "status": "unloaded",
+        "style": "normal"
+      },
+      {
+        "family": "Google Sans Flex",
+        "weight": "600",
+        "status": "unloaded",
+        "style": "normal"
+      },
+      {
+        "family": "Google Sans Flex",
+        "weight": "600",
+        "status": "unloaded",
+        "style": "normal"
+      },
+      {
+        "family": "Google Sans Flex",
+        "weight": "600",
+        "status": "loaded",
+        "style": "normal"
+      },
+      {
+        "family": "Google Sans Flex",
+        "weight": "600",
+        "status": "unloaded",
+        "style": "normal"
+      },
+      {
+        "family": "Google Sans Flex",
+        "weight": "600",
+        "status": "unloaded",
+        "style": "normal"
+      },
+      {
+        "family": "Google Sans Flex",
+        "weight": "600",
+        "status": "loaded",
+        "style": "normal"
+      },
+      {
+        "family": "Google Sans Flex",
+        "weight": "600",
+        "status": "loaded",
+        "style": "normal"
+      },
+      {
+        "family": "Google Sans Flex",
+        "weight": "600",
+        "status": "loaded",
+        "style": "normal"
+      },
+      {
+        "family": "Google Sans Flex",
+        "weight": "700",
+        "status": "unloaded",
+        "style": "normal"
+      },
+      {
+        "family": "Google Sans Flex",
+        "weight": "700",
+        "status": "unloaded",
+        "style": "normal"
+      },
+      {
+        "family": "Google Sans Flex",
+        "weight": "700",
+        "status": "unloaded",
+        "style": "normal"
+      },
+      {
+        "family": "Google Sans Flex",
+        "weight": "700",
+        "status": "unloaded",
+        "style": "normal"
+      },
+      {
+        "family": "Google Sans Flex",
+        "weight": "700",
+        "status": "loaded",
+        "style": "normal"
+      },
+      {
+        "family": "Google Sans Flex",
+        "weight": "700",
+        "status": "unloaded",
+        "style": "normal"
+      },
+      {
+        "family": "Google Sans Flex",
+        "weight": "700",
+        "status": "unloaded",
+        "style": "normal"
+      },
+      {
+        "family": "Google Sans Flex",
+        "weight": "700",
+        "status": "loaded",
+        "style": "normal"
+      },
+      {
+        "family": "Google Sans Flex",
+        "weight": "700",
+        "status": "loaded",
+        "style": "normal"
+      },
+      {
+        "family": "Google Sans Flex",
+        "weight": "700",
+        "status": "loaded",
+        "style": "normal"
+      },
+      {
+        "family": "Oswald",
+        "weight": "400",
+        "status": "unloaded",
+        "style": "normal"
+      },
+      {
+        "family": "Oswald",
+        "weight": "400",
+        "status": "unloaded",
+        "style": "normal"
+      },
+      {
+        "family": "Oswald",
+        "weight": "400",
+        "status": "loaded",
+        "style": "normal"
+      },
+      {
+        "family": "Oswald",
+        "weight": "400",
+        "status": "loaded",
+        "style": "normal"
+      },
+      {
+        "family": "Oswald",
+        "weight": "400",
+        "status": "loaded",
+        "style": "normal"
+      },
+      {
+        "family": "Oswald",
+        "weight": "500",
+        "status": "unloaded",
+        "style": "normal"
+      },
+      {
+        "family": "Oswald",
+        "weight": "500",
+        "status": "unloaded",
+        "style": "normal"
+      },
+      {
+        "family": "Oswald",
+        "weight": "500",
+        "status": "unloaded",
+        "style": "normal"
+      },
+      {
+        "family": "Oswald",
+        "weight": "500",
+        "status": "unloaded",
+        "style": "normal"
+      },
+      {
+        "family": "Oswald",
+        "weight": "500",
+        "status": "unloaded",
+        "style": "normal"
+      },
+      {
+        "family": "JudgemeStar",
+        "weight": "normal",
+        "status": "unloaded",
+        "style": "normal"
+      },
+      {
+        "family": "DM Sans",
+        "weight": "400",
+        "status": "unloaded",
+        "style": "normal"
+      },
+      {
+        "family": "DM Sans",
+        "weight": "400",
+        "status": "unloaded",
+        "style": "normal"
+      },
+      {
+        "family": "DM Sans",
+        "weight": "500",
+        "status": "unloaded",
+        "style": "normal"
+      },
+      {
+        "family": "DM Sans",
+        "weight": "500",
+        "status": "unloaded",
+        "style": "normal"
+      },
+      {
+        "family": "DM Sans",
+        "weight": "600",
+        "status": "unloaded",
+        "style": "normal"
+      },
+      {
+        "family": "DM Sans",
+        "weight": "600",
+        "status": "unloaded",
+        "style": "normal"
+      },
+      {
+        "family": "DM Sans",
+        "weight": "700",
+        "status": "unloaded",
+        "style": "normal"
+      },
+      {
+        "family": "DM Sans",
+        "weight": "700",
+        "status": "unloaded",
+        "style": "normal"
+      },
+      {
+        "family": "Oswald",
+        "weight": "400",
+        "status": "unloaded",
+        "style": "normal"
+      },
+      {
+        "family": "Oswald",
+        "weight": "400",
+        "status": "unloaded",
+        "style": "normal"
+      },
+      {
+        "family": "Oswald",
+        "weight": "400",
+        "status": "loaded",
+        "style": "normal"
+      },
+      {
+        "family": "Oswald",
+        "weight": "400",
+        "status": "loaded",
+        "style": "normal"
+      },
+      {
+        "family": "Oswald",
+        "weight": "400",
+        "status": "loaded",
+        "style": "normal"
+      },
+      {
+        "family": "Oswald",
+        "weight": "500",
+        "status": "unloaded",
+        "style": "normal"
+      },
+      {
+        "family": "Oswald",
+        "weight": "500",
+        "status": "unloaded",
+        "style": "normal"
+      },
+      {
+        "family": "Oswald",
+        "weight": "500",
+        "status": "unloaded",
+        "style": "normal"
+      },
+      {
+        "family": "Oswald",
+        "weight": "500",
+        "status": "unloaded",
+        "style": "normal"
+      },
+      {
+        "family": "Oswald",
+        "weight": "500",
+        "status": "unloaded",
+        "style": "normal"
+      },
+      {
+        "family": "Oswald",
+        "weight": "600",
+        "status": "unloaded",
+        "style": "normal"
+      },
+      {
+        "family": "Oswald",
+        "weight": "600",
+        "status": "unloaded",
+        "style": "normal"
+      },
+      {
+        "family": "Oswald",
+        "weight": "600",
+        "status": "unloaded",
+        "style": "normal"
+      },
+      {
+        "family": "Oswald",
+        "weight": "600",
+        "status": "unloaded",
+        "style": "normal"
+      },
+      {
+        "family": "Oswald",
+        "weight": "600",
+        "status": "unloaded",
+        "style": "normal"
+      },
+      {
+        "family": "DM Sans",
+        "weight": "400",
+        "status": "unloaded",
+        "style": "normal"
+      },
+      {
+        "family": "DM Sans",
+        "weight": "400",
+        "status": "unloaded",
+        "style": "normal"
+      },
+      {
+        "family": "DM Sans",
+        "weight": "500",
+        "status": "unloaded",
+        "style": "normal"
+      },
+      {
+        "family": "DM Sans",
+        "weight": "500",
+        "status": "unloaded",
+        "style": "normal"
+      },
+      {
+        "family": "DM Sans",
+        "weight": "600",
+        "status": "unloaded",
+        "style": "normal"
+      },
+      {
+        "family": "DM Sans",
+        "weight": "600",
+        "status": "unloaded",
+        "style": "normal"
+      },
+      {
+        "family": "DM Sans",
+        "weight": "700",
+        "status": "unloaded",
+        "style": "normal"
+      },
+      {
+        "family": "DM Sans",
+        "weight": "700",
+        "status": "unloaded",
+        "style": "normal"
+      },
+      {
+        "family": "Oswald",
+        "weight": "300",
+        "status": "unloaded",
+        "style": "normal"
+      },
+      {
+        "family": "Oswald",
+        "weight": "300",
+        "status": "unloaded",
+        "style": "normal"
+      },
+      {
+        "family": "Oswald",
+        "weight": "300",
+        "status": "unloaded",
+        "style": "normal"
+      },
+      {
+        "family": "Oswald",
+        "weight": "300",
+        "status": "unloaded",
+        "style": "normal"
+      },
+      {
+        "family": "Oswald",
+        "weight": "300",
+        "status": "unloaded",
+        "style": "normal"
+      },
+      {
+        "family": "Oswald",
+        "weight": "400",
+        "status": "unloaded",
+        "style": "normal"
+      },
+      {
+        "family": "Oswald",
+        "weight": "400",
+        "status": "unloaded",
+        "style": "normal"
+      },
+      {
+        "family": "Oswald",
+        "weight": "400",
+        "status": "loaded",
+        "style": "normal"
+      },
+      {
+        "family": "Oswald",
+        "weight": "400",
+        "status": "loaded",
+        "style": "normal"
+      },
+      {
+        "family": "Oswald",
+        "weight": "400",
+        "status": "loaded",
+        "style": "normal"
+      },
+      {
+        "family": "Oswald",
+        "weight": "500",
+        "status": "unloaded",
+        "style": "normal"
+      },
+      {
+        "family": "Oswald",
+        "weight": "500",
+        "status": "unloaded",
+        "style": "normal"
+      },
+      {
+        "family": "Oswald",
+        "weight": "500",
+        "status": "unloaded",
+        "style": "normal"
+      },
+      {
+        "family": "Oswald",
+        "weight": "500",
+        "status": "unloaded",
+        "style": "normal"
+      },
+      {
+        "family": "Oswald",
+        "weight": "500",
+        "status": "unloaded",
+        "style": "normal"
+      },
+      {
+        "family": "Oswald",
+        "weight": "600",
+        "status": "unloaded",
+        "style": "normal"
+      },
+      {
+        "family": "Oswald",
+        "weight": "600",
+        "status": "unloaded",
+        "style": "normal"
+      },
+      {
+        "family": "Oswald",
+        "weight": "600",
+        "status": "unloaded",
+        "style": "normal"
+      },
+      {
+        "family": "Oswald",
+        "weight": "600",
+        "status": "unloaded",
+        "style": "normal"
+      },
+      {
+        "family": "Oswald",
+        "weight": "600",
+        "status": "unloaded",
+        "style": "normal"
+      }
+    ],
+    "body": "14px / 19.6px \"Google Sans Flex\", Roboto, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+    "heading": "56px / 56px Oswald, Inter, system-ui, sans-serif"
+  }
+}

@@ -1,0 +1,340 @@
+{
+  "routes": [
+    {
+      "path": "/",
+      "status": 200,
+      "desktop": "pass",
+      "mobile": "pass"
+    },
+    {
+      "path": "/pages/warranty",
+      "status": 200,
+      "desktop": "pass",
+      "mobile": "pass"
+    },
+    {
+      "path": "/pages/chinh-sach-bảo-mật",
+      "status": 200,
+      "desktop": "pass",
+      "mobile": "pass"
+    },
+    {
+      "path": "/pages/chinh-sach-bao-hanh",
+      "status": 200,
+      "desktop": "pass",
+      "mobile": "pass"
+    },
+    {
+      "path": "/pages/chinh-sach-van-chuyen",
+      "status": 200,
+      "desktop": "pass",
+      "mobile": "pass"
+    },
+    {
+      "path": "/pages/dieu-khoan-dich-vu",
+      "status": 200,
+      "desktop": "pass",
+      "mobile": "pass"
+    },
+    {
+      "path": "/pages/order-status",
+      "status": 200,
+      "desktop": "pass",
+      "mobile": "pass"
+    },
+    {
+      "path": "/pages/chinh-sach-dổi-trả-hang",
+      "status": 200,
+      "desktop": "pass",
+      "mobile": "pass"
+    },
+    {
+      "path": "/pages/chinh-sach-doi-tra-hang-1",
+      "status": 200,
+      "desktop": "pass",
+      "mobile": "pass"
+    },
+    {
+      "path": "/pages/chinh-sach-bảo-mật-thong-tin-thanh-toan",
+      "status": 200,
+      "desktop": "pass",
+      "mobile": "pass"
+    },
+    {
+      "path": "/pages/thong-tin-về-chủ-sở-hữu-website-chi-tiết-diều-29",
+      "status": 200,
+      "desktop": "pass",
+      "mobile": "pass"
+    },
+    {
+      "path": "/pages/chinh-sach-bảo-vệ-thong-tin-ca-nhan-người-tieu-dung-diều-68-dến-diều-73",
+      "status": 200,
+      "desktop": "pass",
+      "mobile": "pass"
+    },
+    {
+      "path": "/pages/thong-tin-về-cac-phương-thức-thanh-toan-chi-tiết-diều-35",
+      "status": 200,
+      "desktop": "pass",
+      "mobile": "pass"
+    },
+    {
+      "path": "/pages/phan-dịnh-trach-nhiệm-của-thương-nhan-tổ-chức-cung-ứng-dịch-vụ-logistic-về-cung-cấp-chứng-từ-hang-hoa-trong-qua-trinh-giao-nhận",
+      "status": 200,
+      "desktop": "pass",
+      "mobile": "pass"
+    },
+    {
+      "path": "/pages/thong-tin-về-vận-chuyển-va-giao-nhận-chi-tiết-diều-33",
+      "status": 200,
+      "desktop": "pass",
+      "mobile": "pass"
+    },
+    {
+      "path": "/pages/avada-faqs",
+      "status": 200,
+      "desktop": "pass",
+      "mobile": "pass"
+    },
+    {
+      "path": "/pages/theo-doi-don-hang",
+      "status": 200,
+      "desktop": "pass",
+      "mobile": "pass"
+    },
+    {
+      "path": "/pages/dang-ky-bao-hanh",
+      "status": 200,
+      "desktop": "pass",
+      "mobile": "pass"
+    },
+    {
+      "path": "/pages/ve-spotless",
+      "status": 200,
+      "desktop": "pass",
+      "mobile": "pass"
+    },
+    {
+      "path": "/pages/ho-tro",
+      "status": 200,
+      "desktop": "pass",
+      "mobile": "pass"
+    },
+    {
+      "path": "/pages/thanhtoan",
+      "status": 200,
+      "desktop": "pass",
+      "mobile": "pass"
+    },
+    {
+      "path": "/pages/tai-khoan",
+      "status": 200,
+      "desktop": "pass",
+      "mobile": "pass"
+    },
+    {
+      "path": "/pages/huong-dan-su-dung",
+      "status": 200,
+      "desktop": "pass",
+      "mobile": "pass"
+    },
+    {
+      "path": "/pages/chinh-sach-bao-mat",
+      "status": 200,
+      "desktop": "pass",
+      "mobile": "pass"
+    },
+    {
+      "path": "/collections/may-cạo",
+      "status": 200,
+      "desktop": "pass",
+      "mobile": "pass"
+    },
+    {
+      "path": "/collections/phụ-kiện",
+      "status": 200,
+      "desktop": "pass",
+      "mobile": "pass"
+    },
+    {
+      "path": "/collections/cham-soc-da",
+      "status": 200,
+      "desktop": "pass",
+      "mobile": "pass"
+    },
+    {
+      "path": "/collections/mega-menu",
+      "status": 200,
+      "desktop": "pass",
+      "mobile": "pass"
+    },
+    {
+      "path": "/collections/all",
+      "status": 200,
+      "desktop": "pass",
+      "mobile": "pass"
+    },
+    {
+      "path": "/blogs/news",
+      "status": 200,
+      "desktop": "pass",
+      "mobile": "pass"
+    },
+    {
+      "path": "/blogs/suc-khoe",
+      "status": 200,
+      "desktop": "pass",
+      "mobile": "pass"
+    },
+    {
+      "path": "/blogs/cham-soc-nam-gioi",
+      "status": 200,
+      "desktop": "pass",
+      "mobile": "pass"
+    },
+    {
+      "path": "/blogs/huong-dan-su-dung",
+      "status": 200,
+      "desktop": "pass",
+      "mobile": "pass"
+    },
+    {
+      "path": "/blogs/tuyen-dung-viec-lam",
+      "status": 200,
+      "desktop": "pass",
+      "mobile": "pass"
+    },
+    {
+      "path": "/blogs/huong-dan-su-dung/trimday-3-0-max-huong-dan-su-dung",
+      "status": 200,
+      "desktop": "pass",
+      "mobile": "pass"
+    },
+    {
+      "path": "/blogs/huong-dan-su-dung/trimday-lite-huong-dan-su-dung",
+      "status": 200,
+      "desktop": "pass",
+      "mobile": "pass"
+    },
+    {
+      "path": "/blogs/suc-khoe/toc-bac-som-co-phai-dau-hieu-suc-khoe-dang-gap-nguy-hiem",
+      "status": 200,
+      "desktop": "pass",
+      "mobile": "pass"
+    },
+    {
+      "path": "/blogs/suc-khoe/tam-biet-toc-bet-22-cach-giup-toc-anh-em-do-dau-ma-van-khoe-muot",
+      "status": 200,
+      "desktop": "pass",
+      "mobile": "pass"
+    },
+    {
+      "path": "/blogs/cham-soc-nam-gioi/cao-long-nach-co-bi-tham-khong",
+      "status": 200,
+      "desktop": "pass",
+      "mobile": "pass"
+    },
+    {
+      "path": "/blogs/cham-soc-nam-gioi/cao-long-vung-kin-nam-co-moc-lai-khong-202603250207",
+      "status": 200,
+      "desktop": "pass",
+      "mobile": "pass"
+    },
+    {
+      "path": "/blogs/cham-soc-nam-gioi/cach-cao-long-vung-kin-nam-khong-bi-man-do-202603240209",
+      "status": 200,
+      "desktop": "pass",
+      "mobile": "pass"
+    },
+    {
+      "path": "/blogs/cham-soc-nam-gioi/cach-cao-long-vung-kin-nam-khong-bi-moc-nguoc-202603230209",
+      "status": 200,
+      "desktop": "pass",
+      "mobile": "pass"
+    },
+    {
+      "path": "/blogs/news/6-luu-y-cao-long-cho-nam",
+      "status": 200,
+      "desktop": "pass",
+      "mobile": "pass"
+    },
+    {
+      "path": "/blogs/tuyen-dung-viec-lam/vj-content-creator-fulltime",
+      "status": 200,
+      "desktop": "pass",
+      "mobile": "pass"
+    },
+    {
+      "path": "/products/sach-cool",
+      "status": 200,
+      "desktop": "pass",
+      "mobile": "pass"
+    },
+    {
+      "path": "/products/diu-cool",
+      "status": 200,
+      "desktop": "pass",
+      "mobile": "pass"
+    },
+    {
+      "path": "/products/trimday-lite",
+      "status": 200,
+      "desktop": "pass",
+      "mobile": "pass"
+    },
+    {
+      "path": "/products/trimday-3-0-max",
+      "status": 200,
+      "desktop": "pass",
+      "mobile": "pass"
+    },
+    {
+      "path": "/products/trimsmooth",
+      "status": 200,
+      "desktop": "pass",
+      "mobile": "pass"
+    },
+    {
+      "path": "/products/trimblade",
+      "status": 200,
+      "desktop": "pass",
+      "mobile": "pass"
+    },
+    {
+      "path": "/products/trimday-2-0",
+      "status": 200,
+      "desktop": "pass",
+      "mobile": "pass"
+    },
+    {
+      "path": "/products/trimday-1-0",
+      "status": 200,
+      "desktop": "pass",
+      "mobile": "pass"
+    },
+    {
+      "path": "/search",
+      "status": 200,
+      "desktop": "pass",
+      "mobile": "pass"
+    },
+    {
+      "path": "/cart",
+      "status": 200,
+      "desktop": "pass",
+      "mobile": "pass"
+    },
+    {
+      "path": "/account/login",
+      "status": 200,
+      "desktop": "pass",
+      "mobile": "pass"
+    }
+  ],
+  "internalLinks": 46,
+  "assets": 166,
+  "articles": 10,
+  "browserErrors": [],
+  "externalRequests": [],
+  "interactions": "pass"
+}

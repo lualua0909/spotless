@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://spotless.vn/blogs/news</loc>
+    <lastmod>2026-04-22T08:09:06+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://spotless.vn/blogs/suc-khoe</loc>
+    <lastmod>2025-05-19T11:27:13+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://spotless.vn/blogs/cham-soc-nam-gioi</loc>
+    <lastmod>2026-10-06T14:30:35+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://spotless.vn/blogs/huong-dan-su-dung</loc>
+    <lastmod>2026-01-16T17:02:25+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://spotless.vn/blogs/tuyen-dung-viec-lam</loc>
+    <lastmod>2026-10-31T12:51:11+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+</urlset>
